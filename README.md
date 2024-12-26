@@ -1,3 +1,4 @@
+## Abstract
 The major problems that senior attorneys or any law 
 firm face is managing thousands of legal cases in a  year. 
 While many of the cases are accepted a significant portion 
