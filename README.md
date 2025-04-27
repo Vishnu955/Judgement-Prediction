@@ -30,3 +30,8 @@ processes and to reduce the time spent on cases unlikely to
 succeed. By improving efficiency, the model offers a 
 practical solution to a widespread problem in the legal 
 field, benefiting both legal professionals and their clients.
+
+
+## License
+
+This project is licensed under the [Apache License 2.0](LICENSE).
